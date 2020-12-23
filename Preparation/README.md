@@ -15,6 +15,6 @@
 
 - [Frontend Road Map](https://roadmap.sh/frontend)
 - [MDN](https://developer.mozilla.org/zh-CN/)
-- [w3schools](https://www.w3schools.com/)
-- [microsoft docs](https://docs.microsoft.com/)
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+- [Microsoft Docs](https://docs.microsoft.com/)
 - [Apple Developer](https://developer.apple.com/)
