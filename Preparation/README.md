@@ -18,3 +18,4 @@
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - [Microsoft Docs](https://docs.microsoft.com/)
 - [Apple Developer](https://developer.apple.com/)
+- [Browser market share](https://gs.statcounter.com/browser-market-share)
